@@ -17,6 +17,7 @@ The project successfully extracted 100 quotes, saved in "quotes_data.csv".
 1. Clone the repo.
 2. Install dependencies: "pip install requests beautifulsoup4" & "pip install requests".
 3. Run: "python Quote_scrapper.py".
+   
 ***Type what is in between the double quotes 👆👆👆 in your vs code or whatever you are using terminal or simply run the requirements using"pip install -r requirements.txt"***
 ---
 *Developed as part of my learning path in Data Engineering & Robotics.* 🤖🦾
